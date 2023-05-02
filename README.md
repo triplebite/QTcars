@@ -2,7 +2,7 @@
 Простая игра, написанная на Qt(С++).
 Учебный проект.
 
-##Скриншоты из игры
+## Скриншоты из игры
 
 ![car1.png](https://github.com/triplebite/QTcars/blob/main/car1.png)
 
